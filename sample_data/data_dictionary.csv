@@ -1,0 +1,7 @@
+Column,Description
+Date,Date of observation
+Temperature,Daily mean temperature (°C)
+Precipitation,Total daily rainfall (mm)
+Sunshine,Daily sunshine duration (hours)
+EnergyConsumption,Total electricity consumption (MWh)
+Borough,London borough name
